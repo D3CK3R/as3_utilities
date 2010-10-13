@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/actionscript/as3/src/com/pixelrevision/geom
+END
+QuadraticBezier.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/53/actionscript/as3/src/com/pixelrevision/geom/QuadraticBezier.as
+END
+QuadraticBezierContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/66/actionscript/as3/src/com/pixelrevision/geom/QuadraticBezierContainer.as
+END
+Vector.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/actionscript/as3/src/com/pixelrevision/geom/Vector.as
+END
+Polygon.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/66/actionscript/as3/src/com/pixelrevision/geom/Polygon.as
+END
+LineSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/54/actionscript/as3/src/com/pixelrevision/geom/LineSegment.as
+END
